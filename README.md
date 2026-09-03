@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-pronto-2496ed)
 ![Licença](https://img.shields.io/badge/licenca-MIT-white)
 
-FleetControl é um sistema profissional de gestão de frotas desenvolvido como projeto full-stack de portfólio para GitHub. A versão `v1.0.0` entrega uma landing page pública, API Spring Boot segura, banco PostgreSQL com migrations Flyway, autenticação JWT, gestão de veículos, painel executivo e interface administrativa responsiva em React.
+FleetControl é um sistema profissional de gestão de frotas desenvolvido como projeto full-stack. A versão `v1.0.0` entrega uma landing page pública, API Spring Boot segura, banco PostgreSQL com migrations Flyway, autenticação JWT, gestão de veículos, painel executivo e interface administrativa responsiva em React.
 
 ## Objetivo
 
